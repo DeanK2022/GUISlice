@@ -1,4 +1,7 @@
 # GUIslice library #
+
+This is a copy of the GUISlice suite as described below.  I have modified it to use the GT911 touchscreen
+
 [![Build Status](https://travis-ci.org/ImpulseAdventure/GUIslice.svg?branch=master)](https://travis-ci.org/ImpulseAdventure/GUIslice)
 [![GitHub Issues](https://img.shields.io/github/issues/ImpulseAdventure/GUIslice.svg)](https://github.com/ImpulseAdventure/GUIslice/issues)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
